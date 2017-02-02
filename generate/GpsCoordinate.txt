@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Data xmlns="">
+  <!--单位-->
+  <unit Name="海南省海洋与渔业厅"></unit>
+  <unit Name=""></unit>
+  <!--文档类型-->
+  <doctype Name="海洋环境公报"></doctype>
+  <doctype Name=""></doctype>
+
+  <!--年份-->
+  <year Name ="2016年"></year>
+  <year Name ="2017年"></year>
+  <year Name ="2018年"></year>
+  <year Name ="2019年"></year>
+  <year Name ="2020年"></year>
+  <year Name ="2021年"></year>
+  <year Name ="2022年"></year>
+  <year Name =""></year>
+  <!--审核-->
+  <audit Name="已审核"></audit>
+  <audit Name="未审核"></audit>
+  <audit Name=""></audit>
+  <!--发布-->
+  <release Name="已发布"></release>
+  <release Name="未发布"></release>
+  <release Name=""></release>
+  <!--项目编号-->
+  <number Name ="20160418"></number>
+  <!--其他数据类型-->
+  <qitaTYPE Name ="影像数据附件"></qitaTYPE>
+  <qitaTYPE Name ="无人机数据附件"></qitaTYPE>
+  <qitaTYPE Name ="生产报告数据附件"></qitaTYPE>
+  <qitaTYPE Name =""></qitaTYPE>
+  <!--附件类型-->
+  <fjTYPE name ="航迹线资料"></fjTYPE>
+  <fjTYPE name ="视频资料"></fjTYPE>
+  <fjTYPE name ="照片资料"></fjTYPE>
+  <fjTYPE name ="其他资料"></fjTYPE>
+  <fjTYPE name =""></fjTYPE>
+</Data>
