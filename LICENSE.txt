@@ -1,0 +1,2 @@
+This is rootpip private workspace for learning python.
+Please respect and the author.
