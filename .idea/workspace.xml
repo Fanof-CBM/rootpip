@@ -19,7 +19,18 @@
     <favorites_list name="text" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="sorted.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learnpy/sorted.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,6 +53,7 @@
         <option value="$PROJECT_DIR$/5.py" />
         <option value="$PROJECT_DIR$/learnpy/test.py" />
         <option value="$PROJECT_DIR$/learnpy/format.py" />
+        <option value="$PROJECT_DIR$/learnpy/sorted.py" />
       </list>
     </option>
   </component>
@@ -95,6 +107,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -129,7 +142,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -139,7 +151,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="SearchEverywhereHistoryKey" value="show De&#9;ACTION&#9;Vcs.Log.ShowDetailsAction&#10;show&#9;ACTION&#9;Vcs.Log.ShowDetailsAction" />
   </component>
-  <component name="RunManager" selected="Python.format">
+  <component name="RunManager" selected="Python.sorted">
     <configuration default="false" name="text" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,23 +165,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="text" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new text.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="text" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -221,6 +216,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="text" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learnpy/format.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sorted" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learnpy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="text" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learnpy/sorted.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -361,18 +373,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.text" />
-      <item index="1" class="java.lang.String" itemvalue="Python.3" />
-      <item index="2" class="java.lang.String" itemvalue="Python.5" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test" />
-      <item index="4" class="java.lang.String" itemvalue="Python.format" />
+      <item index="1" class="java.lang.String" itemvalue="Python.5" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.format" />
+      <item index="4" class="java.lang.String" itemvalue="Python.sorted" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.format" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test" />
-        <item index="2" class="java.lang.String" itemvalue="Python.text" />
-        <item index="3" class="java.lang.String" itemvalue="Python.5" />
-        <item index="4" class="java.lang.String" itemvalue="Python.3" />
+        <item index="0" class="java.lang.String" itemvalue="Python.sorted" />
+        <item index="1" class="java.lang.String" itemvalue="Python.format" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test" />
+        <item index="3" class="java.lang.String" itemvalue="Python.text" />
+        <item index="4" class="java.lang.String" itemvalue="Python.5" />
       </list>
     </recent_temporary>
   </component>
@@ -463,7 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -526,7 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="4" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="69" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -534,7 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -542,6 +551,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnpy/sorted.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
