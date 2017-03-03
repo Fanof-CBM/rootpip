@@ -6,7 +6,7 @@
 # (_init_) means initialization
 # self means 自己，本身 or instance本身
 class Worker:
-	def __init__(self, name, pay):
+	def __init__(self,name, pay):
 		self.name = name #self is the new object
 		self.pay = pay
 	def firstName(self):

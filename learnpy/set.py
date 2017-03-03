@@ -13,5 +13,5 @@ print(x|y)  #union
 print(x-y)	#difference
 
 # set comprehensions in 3.0
-forset= {x**2 for x in [1,2,3,4]}
+forset= {x**2 for x in range(0,10,1)}
 print(forset)
